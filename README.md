@@ -1,6 +1,6 @@
-# Projeto de Análise de Dados - Análise para um Ateliê de Costuraa
+# Projeto de Análise de Dados - Análise Ateliê de Costura
 <div style="display: flex; justify-content: space-between;"> <br>
-<img width="1000" alt="netflix" src="https://user-images.githubusercontent.com/120759992/235283693-2ca603e9-0d99-4032-a7d7-1ea06f451847.PNG">
+<img width="1000" alt="netflix" src="https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/atelie-de-costura.jpg">
   
 # Sobre o Projeto:
 - O objetivo primário de um ateliê é produzir itens costurados, como roupas sob medida e acessórios personalizados. Com o recorrente fluxo de pedidos a proprietária do ateliê de costura Cetim Encantado me contactou para realizar uma análise dos dados adquiridos, visando obter uma visão geral do último trimestre.
@@ -36,7 +36,7 @@ Após determinar quais perguntas eram importantes, recebemos os dados necessári
 
 # Mapeamento dos Dados
 - Os dados do trimestre se encontram em planilhas do Excel separadas por mês (Julho, Agosto e Setembro)
- <img width="1000" alt="Imagem dados" src="https://user-images.githubusercontent.com/120759992/235331414-9dea41b9-4191-40e9-9466-9f2918d548f0.PNG">
+ <img width="1000" alt="Imagem dados" src="https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/Bases%20Excel%20.png">
 
  
 <br />
@@ -46,16 +46,16 @@ Após determinar quais perguntas eram importantes, recebemos os dados necessári
 # Prototipação
 Com as perguntas de negócio estabelecidas e após uma rápida análise dos dados disponíveis, foi feito o protótipo inicial pela ferramenta Paint. Nela decidimos como poderia ser o design e como as informações ficariam dispostas. Posteriormente fizemos o protótipo definitivo pela ferramenta Figma utilizando as cores base da empresa e a logo que nos foi fornecida.
 #### Protótipo 1
- <img width="1000" alt="Imagem dados" src="https://user-images.githubusercontent.com/120759992/235331414-9dea41b9-4191-40e9-9466-9f2918d548f0.PNG">
+ <img width="1000" alt="Imagem dados" src="https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/Prot%C3%B3tipo%20Ateli%C3%AA.png">
 
 #### Protótipo 2
-  <img width="1000" alt="Imagem dados" src="https://user-images.githubusercontent.com/120759992/235331414-9dea41b9-4191-40e9-9466-9f2918d548f0.PNG">
+  <img width="1000" alt="Imagem dados" src="https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/Prot%C3%B3tipo%202%20Ateli%C3%AA%20(1).png">
 
 # ETL (Extração, Transformação e Carregamento)
 ### Preparação dos dados
 - Após o recebimento das planilhas realizamos o tratamento e a formatação dos dados. Nessa fase foi corrigido erros que afetariam a precisão da análise, como nomes duplicados, produtos com nomes diferentes, valores nulos, entre outros. Além disso foram criadas mais duas tabelas dimensões tornando mais fácil a manipulação dos dados. 
 Terminada essa etapa, exportamos a base de dados para a ferramenta de visualização Power BI onde começaríamos a construção dos insights, no entanto, era necessário realizar a modelagem adequada dos dados, por isso construímos os relacionamentos corretos entre as tabelas fato – dimensão.
- <img width="1000" alt="Imagem dados" src="https://user-images.githubusercontent.com/120759992/235331414-9dea41b9-4191-40e9-9466-9f2918d548f0.PNG">
+ <img width="1000" alt="Imagem dados" src="https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/Modelagem.png">
  
  
 <br />
@@ -71,7 +71,7 @@ Com os dados devidamente tratados, começamos a criação de visuais com dados e
 
 <br />
  
-![DASHBOARD](https://user-images.githubusercontent.com/120759992/235730625-f886f5cf-f8c2-4462-b108-161085db0faa.png)
+![DASHBOARD](https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/Dashboard%20Completo.png)
 
 
 
@@ -82,7 +82,7 @@ Com os dados devidamente tratados, começamos a criação de visuais com dados e
 
 
 # Descobertas e Insights
-<img width="1000" src="https://user-images.githubusercontent.com/120759992/235329230-ffb6313d-b259-4d16-99a5-06c6a781cb03.PNG">
+<img width="1000" src="https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/Insights.png">
 
 Terminada a construção visual e realizada acurada análise do material notou-se as seguintes percepções:
 - A margem de lucro líquido representou 59% do faturamento da empresa. Uma margem de lucro líquido de 59% é relativamente alta e indica que a empresa está gerando um lucro significativo em relação ao seu faturamento. Isso pode ser considerado um sinal positivo de saúde financeira da empresa.
@@ -111,4 +111,4 @@ Em seguida foram apresentadas algumas alternativas, baseadas nas análises reali
 
 
 
-https://user-images.githubusercontent.com/120759992/235731168-3afd34b5-339f-4f52-a5e3-c8c33abc4e30.mp4
+https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/ToolTip%20Ateli%C3%AA.mp4
