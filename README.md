@@ -67,7 +67,7 @@ Terminada essa etapa, exportamos a base de dados para a ferramenta de visualiza�
 # Dashboard Interativo
 Com os dados devidamente tratados, começamos a criação de visuais com dados estatísticos pertinentes que serviriam de base para respondermos as perguntas propostas no início. Foram necessárias criar algumas medidas utilizando fórmulas DAX, além de adcionarmos um Tooltip em um dos gráficoss para trazer informações extras a respeito do cliente.
 
-- [Clique aqui para visualizar o dashboard de maneira interativa](https://app.powerbi.com/view?r=eyJrIjoiZWUwNDNhYTgtZjI0Yi00YTRiLWE5MzItOWYwZWZiM2YyOTg1IiwidCI6ImQ2ZjhiMGIwLTRiNzEtNDE1Yy1iODczLTk4ZDY3Mzc3MzhiZCJ9)
+- [Clique aqui para visualizar o dashboard de maneira interativa](https://app.powerbi.com/view?r=eyJrIjoiMmM5NjBhMjUtMzkyMy00ZmVjLWI1ZWEtNDZhZWNhZmQ0NWFkIiwidCI6ImI2ZTUxYmY3LTlmNjItNDM0Ny1hYTk1LTlhYzljMjI2OTFlOCJ9)
 
 <br />
  
