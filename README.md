@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados - Análise Ateliê de Costura
+# Projeto de Análise do Ateliê de Costura Cetim Encantado
 <div style="display: flex; justify-content: space-between;"> <br>
 <img width="1000" alt="netflix" src="https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/atelie-de-costura.jpg">
   
